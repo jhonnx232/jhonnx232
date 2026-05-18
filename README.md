@@ -48,15 +48,5 @@ Sinta-se à vontade para entrar em contato para conversarmos sobre tecnologia, d
 
 ---
 
-## 📊 Estatísticas e Conquistas
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercelapp/graph?username=jhonnx232&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Gráfico de Atividade de jhonnx232" width="100%" />
-
-  <br><br>
-
-  <img src="https://github-profile-trophies.vercelapp/?username=jhonnx232&theme=tokyonight&column=7" alt="Troféus de jhonnx232" />
-</div>
-
 [linkedin-url]: https://www.linkedin.com/in/jonathas-barbosa-7092a23a2/
 [instagram-url]: https://www.instagram.com/jhonnx.232
