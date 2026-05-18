@@ -25,7 +25,7 @@ Aqui estão as ferramentas e linguagens que utilizo para dar vida às minhas ide
 Além da paixão pela tecnologia, carrego no peito a admiração e o respeito pela nossa força aeroespacial:
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Glaura_da_For%C3%A7a_A%C3%A9rea_Brasileira.svg/1200px-Glaura_da_For%C3%A7a_A%C3%A9rea_Brasileira.svg.png" width="120" alt="Símbolo da Força Aérea Brasileira"><br>
+  <img src="https://imgs.search.brave.com/DWVzkwZSivIW-bLmi2UhU-3b2nWGOeqjv85mfsqbqtw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LmFzc2lzdC5vcmcu/YnIvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMTAvRkFCLUds/YWRvLTNkXzgyNjh4/NTk0NnB4LnBuZw" width="120" alt="Símbolo da Força Aérea Brasileira"><br>
   <strong>Força Aérea Brasileira - Asas que protegem o país! ✈️🎖️</strong>
 </div>
 
