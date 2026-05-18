@@ -1,6 +1,6 @@
 # Olá, eu sou o Jhon! 👋
 
-### 👨‍💻 Desenvolvedor Full-Stack | 🎺 Soldado Músico da FAB | 🎮 Minecraft Addon Creator
+### 👨‍💻 Desenvolvedor Backend| 🎺 Soldado Músico da FAB | 🎮 Minecraft Addon Creator | 🎹Tecladista
 
 Seja bem-vindo ao meu perfil do GitHub! Sou militar, músico e desenvolvedor de software. Atualmente, concilio a minha rotina na Força Aérea Brasileira com o desenvolvimento de aplicações web modernas e a criação de modificações técnicas para jogos.
 
@@ -33,7 +33,7 @@ Estas são as linguagens e frameworks que utilizo no meu ecossistema de desenvol
 
 ## 🚀 Projetos em Destaque
 
-Além do desenvolvimento web tradicional (Full-Stack), dedico parte do meu tempo livre a projetos de desenvolvimento de **Addons para Minecraft Bedrock Edition**. 
+Além do desenvolvimento web tradicional (Backend), dedico parte do meu tempo livre a projetos de desenvolvimento de **Addons para Minecraft Bedrock Edition**. 
 * Aplico lógica de programação, manipulação de arquivos JSON e scripts para customizar entidades, comportamentos e mecânicas dentro do jogo.
 * Foco em otimização e compatibilidade para a comunidade de jogadores.
 
@@ -54,5 +54,5 @@ Sinta-se à vontade para entrar em contato para conversarmos sobre tecnologia, d
   <img src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-DO-GITHUB]&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Meus Status do GitHub" />
 </div>
 
-[linkedin-url]: www.linkedin.com/in/jonathas-barbosa-7092a23a2
+[linkedin-url]: https://www.linkedin.com/in/jonathas-barbosa-7092a23a2/
 [instagram-url]: https://www.instagram.com/jhonnx.232
