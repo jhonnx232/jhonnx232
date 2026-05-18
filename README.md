@@ -48,5 +48,5 @@ Sinta-se à vontade para entrar em contato para conversarmos sobre tecnologia, d
 
 ---
 
-[linkedin-url]: https://www.linkedin.com/in/jonathas-barbosa-7092a23a2/
+[linkedin-url]: https://www.linkedin.com/in/jonathas-barbosa-Dev/
 [instagram-url]: https://www.instagram.com/jhonnx.232
