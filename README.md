@@ -51,7 +51,8 @@ Sinta-se à vontade para entrar em contato para conversarmos sobre tecnologia, d
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonnx232&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Meus Status do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonnx232&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de jhonnx232" height="192px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnx232&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="192px" />
 </div>
 
 [linkedin-url]: https://www.linkedin.com/in/jonathas-barbosa-7092a23a2/
