@@ -1,16 +1,27 @@
-# Olá, eu sou o Jhon! 👋 🚀
+# Olá, eu sou o Jhon! 👋
 
-### 👨‍💻 Desenvolvedor Full-Stack em Construção & Entusiasta da Aviação
+### 👨‍💻 Desenvolvedor Full-Stack | 🎺 Soldado Músico da FAB | 🎮 Minecraft Addon Creator
 
-Seja bem-vindo ao meu universo de linhas de código e asas virtuais! Sou um desenvolvedor apaixonado por transformar café em aplicações eficientes e funcionais. Quando não estou caçando bugs no código, provavelmente estou olhando para o céu ou prestando atenção nos céus do Brasil. 🇧🇷✈️
+Seja bem-vindo ao meu perfil do GitHub! Sou militar, músico e desenvolvedor de software. Atualmente, concilio a minha rotina na Força Aérea Brasileira com o desenvolvimento de aplicações web modernas e a criação de modificações técnicas para jogos.
 
 ---
 
-## ⚡ Minhas Super-Habilidades (Tech Stack)
+## 🎖️ Sobre Mim & Carreira Militar
 
-Aqui estão as ferramentas e linguagens que utilizo para dar vida às minhas ideias:
+Atuo orgulhosamente na **Força Aérea Brasileira** como **Soldado Músico (Corneteiro)**. Além das funções militares e dos每日 toques de corneta, também sou **Tecladista**, aplicando a disciplina e a precisão da música tanto na caserna quanto na escrita de códigos.
 
-| Linguagens & Frameworks | Ferramentas & Controle |
+<div align="center">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Glaura_da_For%C3%A7a_A%C3%A9rea_Brasileira.svg/1200px-Glaura_da_For%C3%A7a_A%C3%A9rea_Brasileira.svg.png](https://imgs.search.brave.com/DWVzkwZSivIW-bLmi2UhU-3b2nWGOeqjv85mfsqbqtw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LmFzc2lzdC5vcmcu/YnIvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMTAvRkFCLUds/YWRvLTNkXzgyNjh4/NTk0NnB4LnBuZw)" width="100" alt="Símbolo da Força Aérea Brasileira"><br>
+  <span><strong>Força Aérea Brasileira - Asas que protegem o país</strong></span>
+</div>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+Estas são as linguagens e frameworks que utilizo no meu ecossistema de desenvolvimento:
+
+| Linguagens & Frameworks | Ferramentas & Controle de Versão |
 | :--- | :--- |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
@@ -20,42 +31,28 @@ Aqui estão as ferramentas e linguagens que utilizo para dar vida às minhas ide
 
 ---
 
-## 🎖️ Orgulho Nacional
+## 🚀 Projetos em Destaque
 
-Além da paixão pela tecnologia, carrego no peito a admiração e o respeito pela nossa força aeroespacial:
-
-<div align="center">
-  <img src="https://imgs.search.brave.com/DWVzkwZSivIW-bLmi2UhU-3b2nWGOeqjv85mfsqbqtw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LmFzc2lzdC5vcmcu/YnIvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMTAvRkFCLUds/YWRvLTNkXzgyNjh4/NTk0NnB4LnBuZw" width="120" alt="Símbolo da Força Aérea Brasileira"><br>
-  <strong>Força Aérea Brasileira - Asas que protegem o país! ✈️🎖️</strong>
-</div>
+Além do desenvolvimento web tradicional (Full-Stack), dedico parte do meu tempo livre a projetos de desenvolvimento de **Addons para Minecraft Bedrock Edition**. 
+* Aplico lógica de programação, manipulação de arquivos JSON e scripts para customizar entidades, comportamentos e mecânicas dentro do jogo.
+* Foco em otimização e compatibilidade para a comunidade de jogadores.
 
 ---
 
-## 🕹️ Status do Jogador: Dev Life
+## 🌐 Conecte-se Comigo
 
-- 🔭 **Atualmente trabalhando em:** Projetos pessoais com React e Node.js para dominar o mundo (ou pelo menos o deploy).
-- 🌱 **Aprendendo cada vez mais:** TypeScript e boas práticas de arquitetura de software.
-- 💬 **Pergunte-me sobre:** Por que o `console.log` é o melhor amigo do homem e qual é o avião mais rápido da FAB.
-- 🤔 **Curiosidade:** Programar e pilotar exigem a mesma coisa: atenção máxima aos comandos para o sistema não buildar em solo! 😂
-
----
-
-## 🌐 Vamos nos conectar?
-
-Se quiser trocar uma ideia sobre código, aviação ou apenas ver o que ando aprontando, me encontre aqui:
+Sinta-se à vontade para entrar em contato para conversarmos sobre tecnologia, desenvolvimento de addons ou música:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin-url]
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram-url]
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-DO-GITHUB]&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Meus Status do GitHub" />
 </div>
 
----
-
-<p align="center">
-  <i>"O céu não é o limite, é apenas o começo."</i> 🚀
-</p>
-
-[linkedin-url]: https://www.linkedin.com/in/[SEU-PERFIL]
-[instagram-url]: https://www.instagram.com/[SEU-USER]
+[linkedin-url]: www.linkedin.com/in/jonathas-barbosa-7092a23a2
+[instagram-url]: https://www.instagram.com/jhonnx.232
