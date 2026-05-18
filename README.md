@@ -1,14 +1,14 @@
 # Olá, eu sou o Jhon! 👋
 
-### 👨‍💻 Desenvolvedor Backend| 🎺 Soldado Músico da FAB | 🎮 Minecraft Addon Creator | 🎹Tecladista
+### 👨‍💻 Desenvolvedor Backend | 🎺 Soldado Músico da FAB | 🎮 Minecraft Addon Creator | 🎹 Tecladista
 
-Seja bem-vindo ao meu perfil do GitHub! Sou militar, músico e desenvolvedor de software. Atualmente, concilio a minha rotina na Força Aérea Brasileira com o desenvolvimento de aplicações web modernas e a criação de modificações técnicas para jogos.
+Seja bem-vindo ao meu perfil do GitHub! Sou militar, músico e desenvolvedor de software. Atualmente, concilio a minha rotina na Força Aérea Brasileira com o desenvolvimento de aplicações web modernas, sistemas backend e a criação de modificações técnicas para jogos.
 
 ---
 
 ## 🎖️ Sobre Mim & Carreira Militar
 
-Atuo orgulhosamente na **Força Aérea Brasileira** como **Soldado Músico (Corneteiro)**. Além das funções militares e dos每日 toques de corneta, também sou **Tecladista**, aplicando a disciplina e a precisão da música tanto na caserna quanto na escrita de códigos.
+Atuo orgulhosamente na **Força Aérea Brasileira** como **Soldado Músico (Corneteiro)**. Além das funções militares e dos toques diários de corneta, também sou **Tecladista**, aplicando a disciplina e a precisão da música tanto na caserna quanto na escrita de códigos.
 
 <div align="center">
   <img src="https://imgs.search.brave.com/DWVzkwZSivIW-bLmi2UhU-3b2nWGOeqjv85mfsqbqtw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LmFzc2lzdC5vcmcu/YnIvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMTAvRkFCLUds/YWRvLTNkXzgyNjh4/NTk0NnB4LnBuZw" width="100" alt="Símbolo da Força Aérea Brasileira"><br>
@@ -19,15 +19,15 @@ Atuo orgulhosamente na **Força Aérea Brasileira** como **Soldado Músico (Corn
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Estas são as linguagens e frameworks que utilizo no meu ecossistema de desenvolvimento:
+Estas são as linguagens, frameworks e ferramentas que utilizo no meu ecossistema de desenvolvimento:
 
-| Linguagens & Frameworks | Ferramentas & Controle de Versão |
-| :--- | :--- |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | |
+| Linguagens & Frameworks | Bancos de Dados | Ferramentas & Deploy |
+| :--- | :--- | :--- |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | | |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | | |
 
 ---
 
@@ -48,7 +48,6 @@ Sinta-se à vontade para entrar em contato para conversarmos sobre tecnologia, d
 
 ---
 
-
 ## 📊 Estatísticas e Conquistas
 
 <div align="center">
@@ -58,7 +57,6 @@ Sinta-se à vontade para entrar em contato para conversarmos sobre tecnologia, d
 
   <img src="https://github-profile-trophies.vercelapp/?username=jhonnx232&theme=tokyonight&column=7" alt="Troféus de jhonnx232" />
 </div>
-
 
 [linkedin-url]: https://www.linkedin.com/in/jonathas-barbosa-7092a23a2/
 [instagram-url]: https://www.instagram.com/jhonnx.232
