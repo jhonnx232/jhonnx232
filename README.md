@@ -50,7 +50,8 @@ Sinta-se à vontade para entrar em contato para conversarmos sobre tecnologia, d
 
 ## 📊 Estatísticas do GitHub
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonnx232&show_icons=true&theme=transparent" alt="Estatísticas do GitHub de jhonnx232" height="192px" />
-  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [linkedin-url]: https://www.linkedin.com/in/jonathas-barbosa-7092a23a2/
 [instagram-url]: https://www.instagram.com/jhonnx.232
