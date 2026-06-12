@@ -161,7 +161,8 @@
 
 <td align="center">
 
-<img src="https://media.tenor.com/xK78w0j7B5QAAAAi/minecraft.gif" width="180"/>
+
+
 
 </td>
 </tr>
