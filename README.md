@@ -1,52 +1,114 @@
-# Olá, eu sou o Jhon! 👋
+# 👋 Olá, eu sou Jhon Barbosa
 
-### 👨‍💻 Desenvolvedor Backend | 🎺 Soldado Músico da FAB | 🎮 Minecraft Addon Creator | 🎹 Tecladista
+### 🚀 Desenvolvedor Backend • 🎺 Soldado Músico da FAB • 🎮 Criador de Addons para Minecraft • 🎹 Tecladista
 
-Seja bem-vindo ao meu perfil do GitHub! Sou militar, músico e desenvolvedor de software. Atualmente, concilio a minha rotina na Força Aérea Brasileira com o desenvolvimento de aplicações web modernas, sistemas backend e a criação de modificações técnicas para jogos.
+Seja bem-vindo ao meu perfil!
+
+Sou apaixonado por tecnologia, música e desafios que exigem criatividade e disciplina. Atualmente concilio minha carreira militar na Força Aérea Brasileira com o desenvolvimento de aplicações web modernas, APIs, sistemas backend e projetos voltados para a comunidade de Minecraft Bedrock Edition.
 
 ---
 
-## 🎖️ Sobre Mim & Carreira Militar
+## 🎖️ Sobre Mim
 
-Atuo orgulhosamente na **Força Aérea Brasileira** como **Soldado Músico (Corneteiro)**. Além das funções militares e dos toques diários de corneta, também sou **Tecladista**, aplicando a disciplina e a precisão da música tanto na caserna quanto na escrita de códigos.
+Atuo na **Força Aérea Brasileira (FAB)** como **Soldado Músico (Corneteiro)**, função que fortaleceu características que também aplico diariamente no desenvolvimento de software:
+
+* 🎯 Disciplina
+* 🧠 Pensamento analítico
+* 🤝 Trabalho em equipe
+* ⚡ Resolução de problemas
+* 📈 Busca constante por evolução
+
+Além da corneta militar, também sou **tecladista**, mantendo uma forte conexão com a música e utilizando a mesma dedicação tanto nos estudos musicais quanto na programação.
 
 <div align="center">
-  <img src="https://imgs.search.brave.com/DWVzkwZSivIW-bLmi2UhU-3b2nWGOeqjv85mfsqbqtw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LmFzc2lzdC5vcmcu/YnIvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMTAvRkFCLUds/YWRvLTNkXzgyNjh4/NTk0NnB4LnBuZw" width="100" alt="Símbolo da Força Aérea Brasileira"><br>
-  <span><strong>Força Aérea Brasileira - Asas que protegem o país</strong></span>
+  <img src="https://imgs.search.brave.com/DWVzkwZSivIW-bLmi2UhU-3b2nWGOeqjv85mfsqbqtw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LmFzc2lzdC5vcmcu/YnIvd3AtY29udGVu/dC91cGxvYWRzLzIw/MjIvMTAvRkFCLUdsYWRvLTNkXzgyNjh4NTk0NnB4LnBuZw" width="100" alt="Símbolo da Força Aérea Brasileira">
+
+**Força Aérea Brasileira**
+*Asas que protegem o país.*
+
 </div>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-Estas são as linguagens, frameworks e ferramentas que utilizo no meu ecossistema de desenvolvimento:
+### Backend
 
-| Linguagens & Frameworks | Bancos de Dados | Ferramentas & Deploy |
-| :--- | :--- | :--- |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | | |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) | | |
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
----
+### Frontend
 
-## 🚀 Projetos em Destaque
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-Além do desenvolvimento web tradicional (Backend), dedico parte do meu tempo livre a projetos de desenvolvimento de **Addons para Minecraft Bedrock Edition**. 
-* Aplico lógica de programação, manipulação de arquivos JSON e scripts para customizar entidades, comportamentos e mecânicas dentro do jogo.
-* Foco em otimização e compatibilidade para a comunidade de jogadores.
+### Banco de Dados
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
 
-## 🌐 Conecte-se Comigo
+### Ferramentas
 
-Sinta-se à vontade para entrar em contato para conversarmos sobre tecnologia, desenvolvimento de addons ou música:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin-url]
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram-url]
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
 
-[linkedin-url]: https://www.linkedin.com/in/jonathas-barbosa-Dev/
+## 🚀 O Que Eu Desenvolvo
+
+### 🌐 Desenvolvimento Backend
+
+* APIs REST
+* Sistemas web escaláveis
+* Integrações com bancos de dados
+* Arquitetura de aplicações
+* Automações e ferramentas personalizadas
+
+### 🎮 Minecraft Bedrock Addons
+
+Uma das minhas áreas favoritas de desenvolvimento.
+
+Trabalho com:
+
+* Criação de entidades personalizadas
+* Modificação de comportamentos do jogo
+* Estruturas JSON avançadas
+* Scripts e mecânicas customizadas
+* Otimização e compatibilidade entre versões
+
+Busco criar experiências que ampliem as possibilidades do Minecraft para a comunidade.
+
+---
+
+## 📚 Atualmente Estudando
+
+* Arquitetura de Software
+* Boas práticas de Backend
+* TypeScript avançado
+* Banco de Dados e Performance
+* Cloud & Deploy
+
+---
+
+## 🌎 Vamos nos Conectar
+
+Estou sempre aberto para trocar ideias sobre:
+
+💻 Desenvolvimento Backend
+🎮 Minecraft Addons
+🎵 Música
+🚀 Tecnologia e Carreira
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)][linkedin-url]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)][instagram-url]
+
+---
+
+⭐ Obrigado pela visita ao meu perfil!
+
+*"Disciplina para servir, criatividade para construir."*
+
+[linkedin-url]: https://www.linkedin.com/in/jonathas-barbosa-dev
 [instagram-url]: https://www.instagram.com/jhonnx.232
